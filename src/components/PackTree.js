@@ -87,4 +87,4 @@ const PackTree = () => {
 
 }
 
-export default PackTree
+export {PackTree}
